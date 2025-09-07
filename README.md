@@ -6,3 +6,5 @@ SecureSight AI is an advanced browser-based suspicious activity and break-in det
 The project showcases expertise in audio processing, and deep learning, integrating multimodal data for accurate context-based analysis. It emphasizes real-time performance, reliability, and intelligent alert generation.
 
 Developed individually, SecureSight AI improved skills in AI model development, data fusion, and implementing efficient alerting systems, while deepening the understanding of security applications in real-world environments.
+
+Secure Sight AI model is made with UCF Crime Dataset.
